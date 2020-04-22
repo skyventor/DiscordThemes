@@ -1,2 +1,2 @@
 # DiscordThemes
-Some of my Discord themes
+Make sure you have Bandaged BetterDiscord installed.
